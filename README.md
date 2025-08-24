@@ -1,109 +1,86 @@
+
 <div align="center">
-  <a href="#">
-      <img src=".github/assets/badge.png" width="200" />
-  </a>
+  <img src=".github/assets/badge.png" width="200" />
+</div>
 
-  <!-- project name -->
-  <h1 align="center">🔑 Generate Password App</h1>
-  
-  <!-- project badges -->
-  <p align="center">
-    <img 
-      alt="Made by Carlos Eduardo" 
-      src="https://img.shields.io/badge/made%20by-Carlos%20Eduardo-%2300BFFF"
-    >
-    <img 
-      alt="Project top programing language" 
-      src="https://img.shields.io/github/languages/top/Carloscb124/generate-password-app?color=%2300BFFF"
-    >
-    <img 
-      alt="Repository size" 
-      src="https://img.shields.io/github/repo-size/Carloscb124/generate-password-app?color=%2300BFFF"
-    >
-    <img 
-      alt="GitHub license" 
-      src="https://img.shields.io/github/license/Carloscb124/generate-password-app?color=%2300BFFF"
-    >
-  </p> 
+# 🦇 Bat Pass Generator
 
-  <!-- project description and menu -->
-  <p align="center">
-      An app to generate strong and secure passwords easily.
-    <br />
-    <a href="##-usage"><strong>Go to usage »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Carloscb124/generate-password-app/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Carloscb124/generate-password-app/issues/new">Request Feature</a>
-  </p>
+Um **gerador de senhas seguras** inspirado no universo do Batman, desenvolvido em **React Native**.  
+Com apenas um clique você pode gerar senhas fortes e copiá-las para usar onde quiser!  
+
+---
+
+## 📱 Demonstração
+
+<div align="center">
+  <img src="preview.jpeg" width="250" />
 </div>
 
 ---
 
-## 📱 Preview
+## 🚀 Funcionalidades
 
-<div align="center">
-  <a href="#">
-      <img src=".github/assets/preview.png" width="250" alt="preview" />
-  </a>
-</div>
+- Geração de senhas aleatórias e seguras 🔐  
+- Botão para copiar a senha diretamente para a área de transferência ⚡  
+- Interface minimalista com design inspirado no tema **Batman** 🦇  
 
 ---
 
-## ✨ Features
-
-- [x] Generate strong random passwords 🔐  
-- [x] Copy password to clipboard 📋  
-
----
-
-## 🛠 Technologies
-
-This project was developed with:
+## 🛠️ Tecnologias Utilizadas
 
 - [React Native](https://reactnative.dev/)  
-- [Expo](https://docs.expo.dev/)  
+- [Expo](https://expo.dev/)  
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
 
 ---
 
-## ⚙️ Installation & Building
+## 📦 Como executar o projeto
 
-You'll need [Node.js](https://nodejs.org) installed on your computer to run this app.
+Clone o repositório:
 
 ```bash
-# Clone the repository
 git clone https://github.com/Carloscb124/generate-password-app.git
-
-# Enter project folder
-cd generate-password-app
-
-# Install dependencies
-npm install
-
-# Start app
-npm run start
 ```
 
----
-
-## 🚀 Usage
-
-To run the project in development mode:
+Acesse a pasta do projeto:
 
 ```bash
-npm run start
+cd generate-password-app
 ```
 
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o app com Expo:
+
+```bash
+npx expo start
+```
+
+Escaneie o QR Code no seu celular com o app **Expo Go** e aproveite! 🎉  
+
 ---
 
-## 🤝 Contributing
+## 📸 Screenshot
 
-Contributions are welcome!  
-Feel free to **open an issue** or **submit a pull request**.
+<div align="center">
+  <img src="preview.jpeg" width="300" />
+</div>
 
 ---
 
-## 📜 License
+## 📄 Licença
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+Este projeto está sob a licença MIT.  
+Sinta-se livre para usar, modificar e compartilhar!  
+
+---
+
+<div align="center">
+
+Feito com ❤️ por [Carlos Eduardo](https://github.com/Carloscb124)  
+
+</div>
