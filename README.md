@@ -9,7 +9,7 @@ Com apenas um clique você pode gerar senhas fortes e copiá-las para usar onde 
 ## 📱 Demonstração
 
 <div align="center">
-  <img src="generate-password-app\assets\preview.jpeg" width="250" />
+  <img src="assets/preview.jpeg" width="250" />
 </div>
 
 ---
