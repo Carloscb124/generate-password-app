@@ -63,7 +63,7 @@ Escaneie o QR Code no seu celular com o app **Expo Go** e aproveite! 🎉
 ## 📸 Screenshot
 
 <div align="center">
-  <img src="generate-password-app\assets\preview.jpeg" width="300" />
+  <img src="assets/preview.jpeg" width="300" />
 </div>
 
 ---
